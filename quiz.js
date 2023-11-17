@@ -36,12 +36,12 @@ $.getJSON("quiz.json", function (data) {
         
         if (correctAnswer === selectedAnswer) {
             // Correct answer
-            console.log("Correct answer!");
+            alert("Correct answer!");
             feedbackDiv.text("Correct! Well done.");
             feedbackDiv.addClass("correct");
         } else {
             // Incorrect answer
-            console.log("Incorrect answer!");
+            alert("Incorrect answer!");
             feedbackDiv.text(`Incorrect. The correct answer is: ${correctAnswer}.`);
             feedbackDiv.addClass("incorrect");
         }
