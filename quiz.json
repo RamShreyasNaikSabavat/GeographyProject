@@ -5,6 +5,5 @@
             "options": ["Thebes", "Memphis", "Alexandria"],
             "correctAnswer": "Memphis"
         },
-        // Add more questions and answers
     ]
 }
