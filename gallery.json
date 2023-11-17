@@ -3,6 +3,5 @@
         { "imageUrl": "image1.jpg", "caption": "Caption 1" },
         { "imageUrl": "image2.jpg", "caption": "Caption 2" },
         { "imageUrl": "image3.jpg", "caption": "Caption 3" },
-        // Add more image entries
     ]
 }
